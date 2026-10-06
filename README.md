@@ -79,7 +79,7 @@ the [Creative Commons Attribution-NonCommercial 4.0 International License](http:
 
 ### Maven
 
-Atm there is no dedicated maven, you can use [cursemaven](https://www.cursemaven.com/) or [Modrinth Maven](https://docs.modrinth.com/maven) to include the mod as a dependency.
+Atm there is no dedicated maven, you can use [cursemaven](https://www.cursemaven.com/) or [Modrinth Maven](https://support.modrinth.com/en/articles/8801191-modrinth-maven) to include the mod as a dependency.
 
 ### Contributing
 
